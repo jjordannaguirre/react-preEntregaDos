@@ -1,0 +1,12 @@
+.contenedorItem{
+    text-align: center;
+    background-color: #F2F4F5;
+    border-radius: 15px;
+    margin: 4rem;
+}
+
+img{
+    width: 20vw;
+    margin-top: 20px;
+}
+

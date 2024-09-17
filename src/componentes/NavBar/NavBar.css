@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 15px solid rgb(229 40 24);
+}
+
+.logoMars {
+    width: 150px;
+}
+
+li{
+    display: inline-block;
+    margin: 0 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
